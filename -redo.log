@@ -1,0 +1,15 @@
+IQ-TREE multicore version 2.4.0 for MacOS Intel 64-bit built Feb 12 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    Ellas-MacBook-Pro-2.local (SSE4.2, 16 GB RAM)
+Command: iqtree2 -s window_97_196.fasta -m MFP -spp -redo
+Seed:    252314 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Apr  1 11:46:23 2025
+Kernel:  SSE2 - 1 threads (8 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 8 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading partition model file -redo ...
+ERROR: File not found -redo
